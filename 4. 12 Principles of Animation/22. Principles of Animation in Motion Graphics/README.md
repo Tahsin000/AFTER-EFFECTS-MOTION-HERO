@@ -1,6 +1,6 @@
 # 22. Principles of Animation in Motion Graphics
 
-## video asset - [Click ME]([./assets/video/index.html](https://tahsin000.github.io/AFTER-EFFECTS-MOTION-HERO/4.%2012%20Principles%20of%20Animation/22.%20Principles%20of%20Animation%20in%20Motion%20Graphics/assets/video/index.html))
+## video asset - [Click ME](https://tahsin000.github.io/AFTER-EFFECTS-MOTION-HERO/4.%2012%20Principles%20of%20Animation/22.%20Principles%20of%20Animation%20in%20Motion%20Graphics/assets/video/index.html)
 
 ![Alt text](./assets/images/image-39.png)
 ![Alt text](./assets/images/image.png)
