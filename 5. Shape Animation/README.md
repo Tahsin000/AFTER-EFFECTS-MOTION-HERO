@@ -1,1 +1,18 @@
 # 5. Shape Animation
+
+- 23. [Introduction](./)
+- 24. [Required Tools](./)
+- 25. [Creating Shapes](./)
+- 26. [Fill and Stroke](./)
+- 27. [Shape parameters](./)
+- 28. [Stroke (Taper and Wave)](./)
+- 29. [Merge Paths Modifier](./)
+- 30. [Offset Paths](./)
+- 31. [Pucker and Bloat](./)
+- 32. [Repeater](./)
+- 33. [Round Corner](./)
+- 34. [Trim Paths](./)
+- 36. [Twist](./)
+- 36. [Wiggle Paths](./)
+- 37. [Wiggle Transform](./)
+- 38. [Zig Zag](./)
