@@ -5,3 +5,6 @@
 - Pen Tool: The Pen Tool in After Effects helps you create custom shapes and paths. It allows you to draw freeform shapes or create precise bezier curves for more intricate designs.
 
 - Keyframe Animation: After Effects is renowned for its powerful keyframe animation capabilities. You
+
+
+![Alt text](image.png)
