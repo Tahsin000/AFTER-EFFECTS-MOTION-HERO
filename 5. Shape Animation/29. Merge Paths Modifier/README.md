@@ -1,5 +1,8 @@
 # 29. Merge Paths Modifier
 
+![Alt text](<Complex Shape.gif>) 
+![Alt text](Locator.gif)
+
 1. Create Multiple Shape Layers: Start by creating multiple shape layers or multiple shapes within a single shape layer. These shapes can be any combination of rectangles, ellipses, polygons, or custom paths.
 
 2. Select the Shape Layers: Select all the shape layers or individual shapes within a single shape layer that you want to merge.
