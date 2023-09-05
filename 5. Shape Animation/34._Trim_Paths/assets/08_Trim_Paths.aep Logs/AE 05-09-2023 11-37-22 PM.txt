@@ -1,0 +1,8 @@
+  05/09/2023 11:37:22 PM: Starting composition “Flower”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\5. Shape Animation\34._Trim_Paths\assets\Render\Flower.mov    05/09/2023 11:38:37 PM: Finished composition “Flower”.
+
+
+  Total Time Elapsed: 1 Min, 14 Sec
+Log closed on 05/09/2023 at 11:38:37 PM
+

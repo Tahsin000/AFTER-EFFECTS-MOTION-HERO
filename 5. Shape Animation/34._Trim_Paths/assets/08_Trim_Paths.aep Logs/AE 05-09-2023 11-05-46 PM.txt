@@ -1,0 +1,8 @@
+  05/09/2023 11:05:46 PM: Starting composition “Trim Paths”.
+
+  Output To: C:\Users\Tahsin Abrar\Videos\Trim Paths.mov    05/09/2023 11:05:48 PM: Finished composition “Trim Paths”.
+
+
+  Total Time Elapsed: 2 Seconds
+Log closed on 05/09/2023 at 11:05:48 PM
+
