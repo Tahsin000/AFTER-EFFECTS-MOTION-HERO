@@ -1,0 +1,8 @@
+  05/09/2023 10:34:06 PM: Starting composition “Cup”.
+
+  Output To: C:\Users\Tahsin Abrar\Videos\Cup.mov    05/09/2023 10:34:14 PM: Finished composition “Cup”.
+
+
+  Total Time Elapsed: 8 Seconds
+Log closed on 05/09/2023 at 10:34:14 PM
+
