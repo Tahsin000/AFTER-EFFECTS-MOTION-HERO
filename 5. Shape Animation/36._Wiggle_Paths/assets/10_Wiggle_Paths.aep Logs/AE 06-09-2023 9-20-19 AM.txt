@@ -1,0 +1,8 @@
+  06/09/2023 9:20:19 AM: Starting composition “Mobile”.
+
+  Output To: C:\Users\Tahsin Abrar\Videos\Mobile.mov    06/09/2023 9:20:20 AM: Finished composition “Mobile”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 06/09/2023 at 9:20:20 AM
+

@@ -1,1 +1,3 @@
-# 36._Wiggle_Paths  
+# 36.\_Wiggle_Paths
+
+![Mobile](assets/Mobile.gif)
