@@ -1,0 +1,8 @@
+  07/09/2023 2:03:28 AM: Starting composition “Boat (Start)”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\5. Shape Animation\38._Zig_Zag\assets\RENDER\Boat (Start).mov    07/09/2023 2:03:31 AM: Finished composition “Boat (Start)”.
+
+
+  Total Time Elapsed: 3 Seconds
+Log closed on 07/09/2023 at 2:03:31 AM
+
