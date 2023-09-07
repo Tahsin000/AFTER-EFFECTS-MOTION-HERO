@@ -1,0 +1,1 @@
+# 39. Introducing the Text capabilities

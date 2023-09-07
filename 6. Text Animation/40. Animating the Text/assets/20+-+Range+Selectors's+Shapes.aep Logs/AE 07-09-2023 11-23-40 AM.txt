@@ -1,0 +1,8 @@
+  07/09/2023 11:23:40 AM: Starting composition “text testing”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\6. Text Animation\40. Animating the Text\assets\RENDER\text testing.mov    07/09/2023 11:23:43 AM: Finished composition “text testing”.
+
+
+  Total Time Elapsed: 3 Seconds
+Log closed on 07/09/2023 at 11:23:43 AM
+
