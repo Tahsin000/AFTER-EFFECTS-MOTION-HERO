@@ -1,0 +1,8 @@
+  09/09/2023 12:49:57 AM: Starting composition “Sample 03 (Glitchy)”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\6. Text Animation\44. Sample 03 (Glitchy)\assets\RENDER\Sample 03 (Glitchy).mov    09/09/2023 12:49:57 AM: Finished composition “Sample 03 (Glitchy)”.
+
+
+  Total Time Elapsed: 0 Seconds
+Log closed on 09/09/2023 at 12:49:58 AM
+
