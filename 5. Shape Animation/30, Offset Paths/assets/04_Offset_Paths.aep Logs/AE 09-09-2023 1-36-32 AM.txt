@@ -1,0 +1,8 @@
+  09/09/2023 1:36:32 AM: Starting composition “Sun light”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\5. Shape Animation\30, Offset Paths\assets\RENDER\Sun light.mov    09/09/2023 1:36:34 AM: Finished composition “Sun light”.
+
+
+  Total Time Elapsed: 2 Seconds
+Log closed on 09/09/2023 at 1:36:34 AM
+

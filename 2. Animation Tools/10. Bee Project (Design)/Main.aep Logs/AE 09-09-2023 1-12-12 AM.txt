@@ -1,0 +1,8 @@
+  09/09/2023 1:12:12 AM: Starting composition “Main”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\2. Animation Tools\10. Bee Project (Design)\assets\Main_1.mov    09/09/2023 1:12:16 AM: Finished composition “Main”.
+
+
+  Total Time Elapsed: 4 Seconds
+Log closed on 09/09/2023 at 1:12:17 AM
+

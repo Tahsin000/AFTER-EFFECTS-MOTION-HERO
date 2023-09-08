@@ -1,0 +1,8 @@
+  09/09/2023 1:45:37 AM: Starting composition “practice - 2”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\5. Shape Animation\32._Repeater\assets\RENDER\practice - 2_1.avi    09/09/2023 1:45:38 AM: Finished composition “practice - 2”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 09/09/2023 at 1:45:38 AM
+

@@ -1,0 +1,8 @@
+  09/09/2023 2:20:34 AM: Starting composition “Mobile (Start)”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\5. Shape Animation\37._Wiggle_Transform\assets\RENDER\Mobile (Start).mov    09/09/2023 2:20:35 AM: Finished composition “Mobile (Start)”.
+
+
+  Total Time Elapsed: 1 Seconds
+Log closed on 09/09/2023 at 2:20:35 AM
+
