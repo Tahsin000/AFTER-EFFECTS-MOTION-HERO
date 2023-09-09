@@ -1,0 +1,8 @@
+  09/09/2023 7:10:51 PM: Starting composition “RENDER”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\7. Lettering Animation\assets\RENDER\RENDER.mov    09/09/2023 7:10:54 PM: Finished composition “RENDER”.
+
+
+  Total Time Elapsed: 3 Seconds
+Log closed on 09/09/2023 at 7:10:54 PM
+
