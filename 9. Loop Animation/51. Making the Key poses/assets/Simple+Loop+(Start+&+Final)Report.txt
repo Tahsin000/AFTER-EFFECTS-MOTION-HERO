@@ -1,0 +1,35 @@
+Report created: 
+	12/09/2023	1:08:03 AM
+
+Project name: Simple+Loop+(Start+&+Final).aep
+
+Source files collected to: 
+	E:\git\AFTER-EFFECTS-MOTION-HERO\9. Loop Animation\51. Making the Key poses\assets\Simple+Loop+(Start+&+Final) folder
+
+Source files collected: For all comps
+
+Collected comps:  
+	Simple Loop (Final)
+	Simple Loop (Basic)
+	BG
+	
+Number of collected files:  0
+
+Size of collected files:  0 KB
+
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  5
+
+Effect:  
+	
+Effect:  CC Bend It
+	
+Effect:  Fill
+	
+Effect:  Puppet
+	
+Effect:  Slider Control
+	
+

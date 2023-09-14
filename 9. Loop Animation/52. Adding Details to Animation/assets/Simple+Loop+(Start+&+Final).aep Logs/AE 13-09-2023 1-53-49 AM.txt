@@ -1,0 +1,8 @@
+  13/09/2023 1:53:49 AM: Starting composition “Simple Loop (Basic)”.
+
+  Output To: E:\git\AFTER-EFFECTS-MOTION-HERO\9. Loop Animation\52. Adding Details to Animation\assets\RENDER\Simple Loop (Basic).mov    13/09/2023 1:54:16 AM: Finished composition “Simple Loop (Basic)”.
+
+
+  Total Time Elapsed: 27 Seconds
+Log closed on 13/09/2023 at 1:54:16 AM
+
